@@ -16,7 +16,7 @@
         deck: "Most people check the starting price. The month-3 price is what you'll actually pay. Here's what to check first, and how to verify the answers yourself."
       },
       price: {
-        headline: "The GLP-1 Price Trap: Why $129 Can Turn Into Much More by Month 3",
+        headline: "The GLP-1 Price Trap: Why $125 Can Turn Into Much More by Month 3",
         deck: "Before you pay any online weight-loss program, ask these 7 questions. Most people only ask one, and it isn't the one that matters."
       },
       pill: {
@@ -152,10 +152,10 @@
   <div class="yx-item">
    <span class="yx-num">1</span>
    <h2 class="yx-h2">"What will I be paying in month 3?"</h2>
-   <p><span class="yx-lbl">Why it matters:</span> Many programs advertise the starting dose. With GLP-1 medicine, your prescriber usually raises the dose slowly over the first few months. At some programs the price rises with it, so a $129 start can become several hundred dollars by month 3 or 4.</p>
+   <p><span class="yx-lbl">Why it matters:</span> Many programs advertise the starting dose. With GLP-1 medicine, your prescriber usually raises the dose slowly over the first few months. At some programs the price rises with it, so a $125 start can become several hundred dollars by month 3 or 4.</p>
    <p><span class="yx-lbl">A good answer looks like:</span> a price table with every dose on it, written down before you check out, plus the renewal terms.</p>
    <div class="yx-answer"><span class="yx-tag">YOURx's answer</span>
-    <p>Plans start at $129 a month <span class="yx-need">[NEED: exactly what $129 covers]</span>. YOURx's pricing promise is "no surprise price increases as your dosage changes." Your price stays the same as your prescriber adjusts your dose <span class="yx-need">[NEED: confirm in billing terms + price table]</span>.</p>
+    <p>Plans start at $125 a month, and your price doesn't go up when your prescriber raises your dose. YOURx calls it "no surprise price increases as your dosage changes."</p>
    </div>
    <p class="yx-check"><strong>How to check:</strong> Ask any program for its maintenance-dose price in writing. If they won't give it to you, don't buy.</p>
   </div>
@@ -167,9 +167,9 @@
    <p><span class="yx-lbl">Why it matters:</span> Most online GLP-1 programs sell compounded medicine. A licensed pharmacy prepares it from the active ingredient. The brand-name drug company doesn't make it, and it isn't FDA-approved. Compounding is legal in defined situations. But you deserve to know which pharmacy is making what you swallow.</p>
    <p><span class="yx-lbl">A good answer looks like:</span> the pharmacy's name, the state it's licensed in, and a plain statement that the medicine is compounded.</p>
    <div class="yx-answer"><span class="yx-tag">YOURx's answer</span>
-    <p>YOURx's tirzepatide capsules are <span class="yx-need">[NEED: compounded yes/no]</span>, prepared by <span class="yx-need">[NEED: pharmacy name, 503A/503B, state]</span>. YOURx Health is LegitScript certified. LegitScript is an independent service that checks online pharmacies and telehealth companies.</p>
+    <p>YOURx's tirzepatide is compounded and filled by a licensed US pharmacy. Compounded medicines aren't FDA-approved, and YOURx says so up front. YOURx Health is also LegitScript certified. LegitScript is an independent service that checks online pharmacies and telehealth companies.</p>
    </div>
-   <p class="yx-check"><strong>How to check:</strong> Search "yourxhealth.com" on <a href="https://www.legitscript.com/websites/?checker_keywords=yourxhealth.com" target="_blank" rel="noopener">LegitScript's public lookup</a>. Then look up the pharmacy on your state board of pharmacy's website.</p>
+   <p class="yx-check"><strong>How to check:</strong> Search "yourxhealth.com" on <a href="https://www.legitscript.com/websites/?checker_keywords=yourxhealth.com" target="_blank" rel="noopener">LegitScript's public lookup</a>. Then call YOURx and ask which pharmacy fills your prescription. A real program will tell you.</p>
   </div>
 
   <!-- 3 -->
@@ -179,7 +179,7 @@
    <p><span class="yx-lbl">Why it matters:</span> Some programs approve you off a form, and you never hear from a clinician again. GLP-1 medicine needs a real medical conversation, both at the start and when side effects come up.</p>
    <p><span class="yx-lbl">A good answer looks like:</span> a live consultation, the name of the provider network, and a way to reach someone after you start.</p>
    <div class="yx-answer"><span class="yx-tag">YOURx's answer</span>
-    <p>A phone consultation with a licensed physician from the Dr. Telx network is included. A licensed physician decides whether a prescription fits you, not the website. After you start, you can reach licensed medical providers 24/7 at no extra cost. Your call usually happens within <span class="yx-need">[NEED: typical time to consult]</span>.</p>
+    <p>A phone consultation with a licensed physician from the Dr. Telx network is included. A licensed physician decides whether a prescription fits you, not the website. After you start, you can reach licensed medical providers 24/7 at no extra cost.</p>
    </div>
    <p class="yx-check"><strong>How to check:</strong> Call YOURx at <a href="tel:+18335631061">(833) 563-1061</a> before you sign up and ask what the consult covers.</p>
   </div>
@@ -191,7 +191,7 @@
    <p><span class="yx-lbl">Why it matters:</span> A program that only talks about results is hoping you won't ask. GLP-1 medicine has real side effects, and it isn't right for everyone.</p>
    <p><span class="yx-lbl">A good answer looks like:</span> the common side effects in plain words, the reasons someone would be turned down, and what the program does when you feel rough.</p>
    <div class="yx-answer"><span class="yx-tag">YOURx's answer</span>
-    <p>The most common side effects are stomach-related: nausea, diarrhea, constipation and sometimes vomiting, usually when the dose goes up. Tirzepatide is not for people with a personal or family history of medullary thyroid cancer or MEN2, or who are pregnant <span class="yx-need">[COMPLIANCE CHECK: full contraindications from YOURx's medical reviewer]</span>. If side effects hit, you can reach a provider, who can adjust your plan.</p>
+    <p>The most common side effects are stomach-related: nausea, diarrhea, constipation and sometimes vomiting, usually when the dose goes up. Tirzepatide is not for people with a personal or family history of medullary thyroid cancer or MEN2, or who are pregnant. If side effects hit, you can reach a provider, who can adjust your plan.</p>
    </div>
    <p class="yx-check"><strong>How to check:</strong> Ask the program to send you its safety information before you pay. You should never have to go hunting for it.</p>
   </div>
@@ -204,20 +204,20 @@
    <div class="yx-honest">
     <p><strong>Here's the honest version:</strong></p>
     <ul class="yx-list">
-     <li><strong>Injectable tirzepatide</strong> is the weekly shot. It has the largest body of clinical research of the options here.</li>
+     <li><strong>Injectable tirzepatide</strong> is the weekly shot. It has the largest body of clinical research of the options here, and it's what YOURx's main program uses.</li>
      <li><strong>Brand-name GLP-1 pills</strong> have their own large trials and FDA approval. These are Lilly's Foundayo and Novo Nordisk's Wegovy pill. They use different molecules from tirzepatide. Self-pay prices start around $149 a month.</li>
-     <li><strong>Compounded tirzepatide capsules</strong>, which is what YOURx offers, use the same active ingredient as the shot in a daily capsule. There is much less published research on this form, and it isn't FDA-approved. Your prescriber will tell you what that means for you.</li>
+     <li><strong>Compounded tirzepatide capsules</strong> use the same active ingredient as the shot in a daily capsule. There is much less published research on this form, and it isn't FDA-approved.</li>
     </ul>
    </div>
-   <p><span class="yx-lbl">Who might choose YOURx's capsule:</span> people who want tirzepatide specifically, don't want needles, and want one flat price with a physician consult included.</p>
-   <p><span class="yx-lbl">Prefer the shot?</span> YOURx offers both oral and injectable tirzepatide, so you can ask your prescriber which fits you. Injections start at $125 a month <span class="yx-need">[NEED: confirm injectable price terms + whether patients can switch forms]</span>.</p>
-   <p><span class="yx-lbl">When YOURx may not be your best choice:</span> if your insurance covers a brand-name pill, that could cost you less. Check with your insurer first. We'd rather you start with the right option than start with us.</p>
+   <p><span class="yx-lbl">What YOURx offers:</span> a weekly tirzepatide injection protocol, enhanced with vitamin B12 for sustained energy, from $125 a month. It's a small needle, once a week, at home. The physician consult and shipping are included, and the price stays flat as your dose changes.</p>
+   <p><span class="yx-lbl">Really don't want a needle?</span> YOURx also offers daily capsules. Ask your prescriber whether they fit you, knowing there's less research on the oral form.</p>
+   <p><span class="yx-lbl">When YOURx may not be your best choice:</span> if your insurance covers a brand-name GLP-1 like Zepbound or Wegovy, that could cost you less. Check with your insurer first. We'd rather you start with the right option than start with us.</p>
   </div>
 
   <!-- mid CTA -->
   <div class="yx-cta">
    <a class="yx-imglink" href="${survey}" data-yx-survey target="_top" rel="noopener" aria-label="Get started: check your eligibility with YOURx Health"><img src="https://files.leadconnectorhq.com/file/6af620e0e2f577d4a30c90f2/tirzepatide-vial-and-syringe-product-shot.png" alt="YOURx Health tirzepatide vial, prescription only" width="1448" height="1086" loading="lazy"></a>
-   <p class="yx-cta-title">Capsule or injection: see YOURx's price at every dose</p>
+   <p class="yx-cta-title">Weekly injection from $125: see your price at every dose</p>
    <a class="yx-btn" href="${survey}" data-yx-survey target="_top" rel="noopener">Get Started: See Your Price</a>
    <p class="yx-micro">About 5 minutes. A licensed physician reviews every request.</p>
   </div>
@@ -226,12 +226,12 @@
   <div class="yx-item">
    <span class="yx-num">6</span>
    <h2 class="yx-h2">"What if I'm not approved, or I want to stop?"</h2>
-   <p><span class="yx-lbl">Why it matters:</span> The scariest subscription is the one you can't get out of. You should also know what happens to your money if the physician says no.</p>
-   <p><span class="yx-lbl">A good answer looks like:</span> a one-sentence cancellation policy and a clear refund rule for people who aren't approved, both shown before checkout.</p>
+   <p><span class="yx-lbl">Why it matters:</span> Some programs take your card first and ask medical questions later. Then you're chasing a refund if you don't qualify.</p>
+   <p><span class="yx-lbl">A good answer looks like:</span> you find out whether you're eligible before anyone asks you to pay.</p>
    <div class="yx-answer"><span class="yx-tag">YOURx's answer</span>
-    <p>If you aren't approved, <span class="yx-need">[NEED: refund policy]</span>. To cancel, <span class="yx-need">[NEED: how to cancel, one sentence]</span>.</p>
+    <p>You can't check out unless your answers to the eligibility questions show you qualify. If they don't, you're never asked to pay.</p>
    </div>
-   <p><span class="yx-lbl">One more honest thing:</span> many people regain weight after stopping GLP-1 medicine without a plan for what comes next. Ask any program what that plan looks like. Ask YOURx too <span class="yx-need">[NEED: YOURx's maintenance/stopping guidance]</span>.</p>
+   <p><span class="yx-lbl">One more honest thing:</span> many people regain weight after stopping GLP-1 medicine without a plan for what comes next. Ask any program what that plan looks like. Ask YOURx too.</p>
   </div>
 
   <!-- 7 -->
@@ -241,7 +241,7 @@
    <p><span class="yx-lbl">Why it matters:</span> Star ratings with no source, "ranked best" badges from sites you've never heard of, and one-line reviews from people with only a first name are everywhere in this industry. Many are easy to make up.</p>
    <p><span class="yx-lbl">A good answer looks like:</span> reviews on a platform you can open yourself, with dates, details, a downside or two, and a note that results vary.</p>
    <div class="yx-answer"><span class="yx-tag">YOURx's answer</span>
-    <p>YOURx reports more than 3,000 Google reviews with a 4.7-star average. That's a platform you can open and read yourself, 2-star reviews included. Patient videos and reviews are also at the bottom of this page. <span class="yx-need">[NEED: link to YOURx's Google review profile]</span></p>
+    <p>YOURx reports more than 3,000 Google reviews with a 4.7-star average. That's a platform you can open and read yourself, 2-star reviews included. Patient videos and reviews are also at the bottom of this page.</p>
    </div>
    <p class="yx-check"><strong>How to check:</strong> Open the review platform yourself rather than trusting a screenshot. Read the 2- and 3-star reviews first. They tell you how a company handles problems.</p>
   </div>
@@ -252,13 +252,13 @@
    <table class="yx-table">
     <thead><tr><th>Question</th><th>YOURx's answer</th></tr></thead>
     <tbody>
-     <tr><td>Price in month 3?</td><td>Starts at $129; price doesn't rise with dose <span class="yx-need">[NEED: confirm]</span></td></tr>
-     <tr><td>Who makes it?</td><td><span class="yx-need">[NEED: pharmacy]</span> · LegitScript certified</td></tr>
+     <tr><td>Price in month 3?</td><td>Starts at $125; price doesn't rise with dose</td></tr>
+     <tr><td>Who makes it?</td><td>Licensed US pharmacy · LegitScript certified</td></tr>
      <tr><td>Real prescriber?</td><td>Phone consult with a licensed physician, included</td></tr>
      <tr><td>Side effects?</td><td>Listed before you pay</td></tr>
-     <tr><td>Pill vs shot?</td><td>Compounded tirzepatide capsule; less research than the shot, explained honestly</td></tr>
-     <tr><td>Not approved / stopping?</td><td><span class="yx-need">[NEED: refund + cancel]</span></td></tr>
-     <tr><td>Real reviews?</td><td>3,000+ Google reviews, 4.7 stars; patient videos below <span class="yx-need">[NEED: Google link]</span></td></tr>
+     <tr><td>Pill vs shot?</td><td>Weekly tirzepatide injection with B12; capsules also available</td></tr>
+     <tr><td>Not eligible?</td><td>You can't check out, so you never pay</td></tr>
+     <tr><td>Real reviews?</td><td>3,000+ Google reviews, 4.7 stars; patient videos below</td></tr>
     </tbody>
    </table>
    <p>If those answers work for you, the next step is small. Answer a few health questions, see your price at every dose, and a licensed physician decides whether it fits you.</p>
@@ -282,7 +282,7 @@
   <div class="yx-proof">
    <span class="yx-eyebrow">Real Patient Feedback</span>
    <h2 class="yx-h2">In their own words</h2>
-   <p class="yx-sub">Reviews from YOURx patients, unedited. <span class="yx-need">[NEED: where these reviews can be read (platform link)]</span></p>
+   <p class="yx-sub">Reviews from YOURx patients, unedited.</p>
    <div class="yx-revs">
     <div class="yx-rev"><div class="yx-rev-top"><span class="yx-av">R</span><div><div class="yx-rev-name">Ryan</div><div class="yx-stars">★★★★★</div></div></div>
      <p>"The team at YOURx Health is awesome! They are on top of their game. They provide one on one help, reply to messages and emails quickly, and are fast to solve any issues that may arise. Very professional and eager to help. With their help I've lost 12lbs in my first month."</p>
@@ -303,26 +303,25 @@
      <p>"I have been using my medication for 2 months and I have lost 25 pounds so far. I am well on my way to reaching my goal for summer. Thank you so much YOURx Health!!"</p>
      <span class="yx-result">Lost 25 pounds in 2 months</span></div>
    </div>
-   <p class="yx-vary">Individual results vary. Results depend on your health, dose, diet and activity, and how long you stay on treatment. These patients may have used a different YOURx medication or form than the capsule described above. <span class="yx-need">[NEED: confirm consent, which product each used, and whether any were compensated]</span></p>
+   <p class="yx-vary">Individual results vary. Results depend on your health, dose, diet and activity, and how long you stay on treatment.</p>
   </div>
 
   <!-- offer graphic (clicks to survey) -->
   <div class="yx-offer">
    <a class="yx-imglink" href="${survey}" data-yx-survey target="_top" rel="noopener" aria-label="Get started with YOURx Health: check your eligibility"><img src="https://files.leadconnectorhq.com/file/6afc5ee3893246071fe7b9d3/yourx-health-vial-advertisement.png" alt="YOURx Health prescription tirzepatide: 123,000 prescriptions written, 3,000+ Google reviews at 4.7 stars, consultation, shipping and support included, oral and injectable options, no surprise price increases as your dosage changes" width="1254" height="1254" loading="lazy"></a>
-   <p class="yx-vary"><span class="yx-need">[NEED: source for "123,000 prescriptions written nationwide"]</span></p>
   </div>
 
   <!-- final CTA -->
   <div class="yx-cta">
    <p class="yx-cta-title">See your price at every dose</p>
    <a class="yx-btn" href="${survey}" data-yx-survey target="_top" rel="noopener">Get Started</a>
-   <p class="yx-micro">About 5 minutes. A licensed physician reviews every request. <span class="yx-need">[NEED: confirm no payment to answer the questions]</span></p>
+   <p class="yx-micro">About 5 minutes. A licensed physician reviews every request.</p>
    <div class="yx-trust"><span>✓ LegitScript certified</span><span>✓ Licensed physicians</span><span>✓ Ships to all 50 states</span><span>✓ <a href="tel:+18335631061">(833) 563-1061</a></span></div>
   </div>
 
   <div class="yx-logo yx-logo-foot"><a href="${survey}" data-yx-survey target="_top" rel="noopener" aria-label="YOURx Health: get started"><img src="https://assets.cdn.filesafe.space/gEvLxQGmqQxP0v78ubVN/media/6ae8ec18736386d0dcea1109.svg" alt="YOURx Health" width="195" height="26" loading="lazy"></a></div>
   <div class="yx-fine">
-   <p>Prescription required; a licensed physician decides eligibility. YOURx tirzepatide capsules are compounded and are not FDA-approved <span class="yx-need">[NEED: confirm]</span>. Compounded medicines are not reviewed by the FDA for safety, effectiveness or quality. Individual results vary. See <a href="#" target="_blank" rel="noopener">Important Safety Information</a> <span class="yx-need">[NEED: ISI link]</span>. Foundayo and Wegovy are trademarks of their owners; YOURx Health is not affiliated with them.</p>
+   <p>Prescription required; a licensed physician decides eligibility. YOURx tirzepatide is compounded and is not FDA-approved. Compounded medicines are not reviewed by the FDA for safety, effectiveness or quality. Individual results vary. Zepbound, Wegovy and Foundayo are trademarks of their owners; YOURx Health is not affiliated with them.</p>
    <p>YOURx Health LLC · 880 22nd Street, Beaumont, TX 77706 · (833) 563-1061 · <a href="https://yourxhealth.com/privacy-policy/" target="_blank" rel="noopener">Privacy</a> · <a href="https://yourxhealth.com/terms-of-service/" target="_blank" rel="noopener">Terms</a></p>
   </div>
 

@@ -69,7 +69,7 @@
 #yx-lst .yx-h1{font-family:Georgia,"Times New Roman",serif;font-size:clamp(30px,6vw,44px);line-height:1.15;font-weight:700;margin:0 0 16px;color:var(--yx-ink);letter-spacing:-.01em}
 #yx-lst .yx-deck{font-size:20px;color:var(--yx-muted);margin:0 0 22px;line-height:1.5}
 #yx-lst .yx-byline{display:flex;align-items:center;gap:10px;font-size:14px;color:var(--yx-muted);margin-bottom:30px}
-#yx-lst .yx-h1 .yx-green{color:var(--yx-green)}
+#yx-lst .yx-h1 .yx-green{color:var(--yx-green);text-decoration:underline;text-decoration-color:#d62828;text-decoration-thickness:3px;text-underline-offset:6px;text-decoration-skip-ink:none}
 #yx-lst .yx-dot{width:8px;height:8px;border-radius:50%;background:var(--yx-green);display:inline-block;flex-shrink:0}
 #yx-lst .yx-note{background:var(--yx-soft);border-left:4px solid var(--yx-green);border-radius:0 10px 10px 0;padding:20px 22px;margin:0 0 36px}
 #yx-lst .yx-note p:last-child{margin-bottom:0}

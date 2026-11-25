@@ -13,6 +13,7 @@
     headlines: {
       questions: {
         headline: "7 Questions to Ask Any Online GLP-1 Program Before You Pay",
+        green: "7 Questions to Ask Any Online",
         deck: "Most people check the starting price. The month-3 price is what you'll actually pay. Here's what to check first, and how to verify the answers yourself."
       },
       price: {
@@ -38,6 +39,10 @@
 
   var qs = new URLSearchParams(window.location.search);
   var v = CONFIG.headlines[qs.get("h")] || CONFIG.headlines[CONFIG.defaultHeadline];
+  // optional "green" field: that part of the headline shows in brand green
+  var h1 = v.green && v.headline.indexOf(v.green) > -1
+    ? v.headline.replace(v.green, '<span class="yx-green">' + v.green + "</span>")
+    : v.headline;
 
   var survey = CONFIG.surveyUrl;
   try {
@@ -64,6 +69,7 @@
 #yx-lst .yx-h1{font-family:Georgia,"Times New Roman",serif;font-size:clamp(30px,6vw,44px);line-height:1.15;font-weight:700;margin:0 0 16px;color:var(--yx-ink);letter-spacing:-.01em}
 #yx-lst .yx-deck{font-size:20px;color:var(--yx-muted);margin:0 0 22px;line-height:1.5}
 #yx-lst .yx-byline{display:flex;align-items:center;gap:10px;font-size:14px;color:var(--yx-muted);margin-bottom:30px}
+#yx-lst .yx-h1 .yx-green{color:var(--yx-green)}
 #yx-lst .yx-dot{width:8px;height:8px;border-radius:50%;background:var(--yx-green);display:inline-block;flex-shrink:0}
 #yx-lst .yx-note{background:var(--yx-soft);border-left:4px solid var(--yx-green);border-radius:0 10px 10px 0;padding:20px 22px;margin:0 0 36px}
 #yx-lst .yx-note p:last-child{margin-bottom:0}
@@ -137,9 +143,9 @@
   <div class="yx-logo"><a href="${survey}" data-yx-survey target="_top" rel="noopener" aria-label="YOURx Health: get started"><img src="https://assets.cdn.filesafe.space/gEvLxQGmqQxP0v78ubVN/media/6ae8ec18736386d0dcea1109.svg" alt="YOURx Health" width="225" height="30"></a></div>
   <div class="yx-ad">Advertisement · Paid for by YOURx Health</div>
 
-  <h1 class="yx-h1">${v.headline}</h1>
+  <h1 class="yx-h1">${h1}</h1>
   <p class="yx-deck">${v.deck}</p>
-  <div class="yx-byline"><span class="yx-dot"></span>A buyer's guide from YOURx Health · About 6 minutes to read</div>
+  <div class="yx-byline"><span class="yx-dot"></span>A buyer's guide from YOURx Health · <strong>About 6 minutes to read</strong></div>
 
   <div class="yx-note">
    <p><strong>A quick word before the list.</strong></p>

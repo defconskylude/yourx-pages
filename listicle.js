@@ -69,7 +69,7 @@
 #yx-lst .yx-h1{font-family:Georgia,"Times New Roman",serif;font-size:clamp(30px,6vw,44px);line-height:1.15;font-weight:700;margin:0 0 16px;color:var(--yx-ink);letter-spacing:-.01em}
 #yx-lst .yx-deck{font-size:20px;color:var(--yx-muted);margin:0 0 22px;line-height:1.5}
 #yx-lst .yx-byline{display:flex;align-items:center;gap:10px;font-size:14px;color:var(--yx-muted);margin-bottom:30px}
-#yx-lst .yx-h1 .yx-green{color:var(--yx-green);text-decoration:underline;text-decoration-color:#d62828;text-decoration-thickness:3px;text-underline-offset:6px;text-decoration-skip-ink:none}
+#yx-lst .yx-h1 .yx-green{color:var(--yx-green);background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 20' preserveAspectRatio='none'><path fill='%23d62828' d='M3 11C40 5 110 4 170 5C222 6 266 4 297 7C291 11 262 12 220 12C160 13 92 15 42 16C20 16 8 16 3 11Z' opacity='.92'/><path fill='%23d62828' d='M30 13C90 10 170 9 250 9C200 12 120 14 40 15Z' opacity='.55'/></svg>");background-repeat:no-repeat;background-size:100% .26em;background-position:0 100%;padding-bottom:.14em;-webkit-box-decoration-break:clone;box-decoration-break:clone}
 #yx-lst .yx-dot{width:8px;height:8px;border-radius:50%;background:var(--yx-green);display:inline-block;flex-shrink:0}
 #yx-lst .yx-note{background:var(--yx-soft);border-left:4px solid var(--yx-green);border-radius:0 10px 10px 0;padding:20px 22px;margin:0 0 36px}
 #yx-lst .yx-note p:last-child{margin-bottom:0}

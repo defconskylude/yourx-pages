@@ -115,10 +115,10 @@
 #yx-lst .yx-rev p{font-size:16px;line-height:1.55;margin:0 0 12px;flex:1}
 #yx-lst .yx-result{font-size:14px;font-weight:700;color:var(--yx-green);background:var(--yx-soft);border-radius:8px;padding:6px 10px;align-self:flex-start}
 #yx-lst .yx-bas{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin:6px 0 10px}
-#yx-lst .yx-ba{background:#fff;border:1px solid var(--yx-line);border-radius:16px;overflow:hidden;box-shadow:0 4px 14px rgba(0,0,0,.05)}
-#yx-lst .yx-ba-pics{display:grid;grid-template-columns:1fr 1fr;gap:3px;background:var(--yx-line)}
-#yx-lst .yx-ba-pics figure{position:relative;margin:0;aspect-ratio:2/3;overflow:hidden;background:#e9eeeb}
-#yx-lst .yx-ba-pics img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+#yx-lst .yx-ba{max-width:594px;width:100%;margin:0 auto;background:#fff;border:1px solid var(--yx-line);border-radius:16px;overflow:hidden;box-shadow:0 4px 14px rgba(0,0,0,.05)}
+#yx-lst .yx-ba-pics{display:grid;gap:3px;align-items:start;background:var(--yx-line)}
+#yx-lst .yx-ba-pics figure{position:relative;margin:0;background:#e9eeeb}
+#yx-lst .yx-ba-pics img{width:100%;height:auto;display:block}
 #yx-lst .yx-ba-pics figcaption{position:absolute;left:8px;bottom:8px;background:rgba(29,36,33,.82);color:#fff;font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:4px 9px;border-radius:999px}
 #yx-lst .yx-ba-pics figcaption.yx-after{background:var(--yx-green)}
 #yx-lst .yx-ba-body{padding:16px 16px 18px;text-align:center}
@@ -330,16 +330,16 @@
    <p class="yx-sub">Photos shared by YOURx patients, unedited. Their results, not a promise of yours.</p>
    <div class="yx-bas">
     <div class="yx-ba">
-     <div class="yx-ba-pics">
-      <figure><img src="https://defconskylude.github.io/yourx-pages/img/mindie-before.jpg" alt="Mindie V. before" loading="lazy" width="300" height="462"><figcaption>Before</figcaption></figure>
-      <figure><img src="https://defconskylude.github.io/yourx-pages/img/mindie-after.jpg" alt="Mindie V. after" loading="lazy" width="300" height="462"><figcaption class="yx-after">After</figcaption></figure>
+     <div class="yx-ba-pics" style="grid-template-columns:308fr 282fr">
+      <figure><img src="https://defconskylude.github.io/yourx-pages/img/mindie-before.jpg" alt="Mindie V. before" loading="lazy" width="308" height="462"><figcaption>Before</figcaption></figure>
+      <figure><img src="https://defconskylude.github.io/yourx-pages/img/mindie-after.jpg" alt="Mindie V. after" loading="lazy" width="282" height="462"><figcaption class="yx-after">After</figcaption></figure>
      </div>
      <div class="yx-ba-body"><div class="yx-ba-lbs">52 lbs lost</div><div class="yx-ba-name">Mindie V. · YOURx Health patient</div></div>
     </div>
     <div class="yx-ba">
-     <div class="yx-ba-pics">
-      <figure><img src="https://defconskylude.github.io/yourx-pages/img/eddie-before.jpg" alt="Eddie B. before" loading="lazy" width="300" height="462"><figcaption>Before</figcaption></figure>
-      <figure><img src="https://defconskylude.github.io/yourx-pages/img/eddie-after.jpg" alt="Eddie B. after" loading="lazy" width="300" height="462"><figcaption class="yx-after">After</figcaption></figure>
+     <div class="yx-ba-pics" style="grid-template-columns:280fr 306fr">
+      <figure><img src="https://defconskylude.github.io/yourx-pages/img/eddie-before.jpg" alt="Eddie B. before" loading="lazy" width="280" height="462"><figcaption>Before</figcaption></figure>
+      <figure><img src="https://defconskylude.github.io/yourx-pages/img/eddie-after.jpg" alt="Eddie B. after" loading="lazy" width="306" height="462"><figcaption class="yx-after">After</figcaption></figure>
      </div>
      <div class="yx-ba-body"><div class="yx-ba-lbs">44 lbs lost</div><div class="yx-ba-name">Eddie B. · YOURx Health patient</div></div>
     </div>

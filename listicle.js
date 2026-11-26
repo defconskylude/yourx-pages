@@ -114,6 +114,16 @@
 #yx-lst .yx-stars{color:#e0a100;font-size:14px;letter-spacing:1px}
 #yx-lst .yx-rev p{font-size:16px;line-height:1.55;margin:0 0 12px;flex:1}
 #yx-lst .yx-result{font-size:14px;font-weight:700;color:var(--yx-green);background:var(--yx-soft);border-radius:8px;padding:6px 10px;align-self:flex-start}
+#yx-lst .yx-bas{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin:6px 0 10px}
+#yx-lst .yx-ba{background:#fff;border:1px solid var(--yx-line);border-radius:16px;overflow:hidden;box-shadow:0 4px 14px rgba(0,0,0,.05)}
+#yx-lst .yx-ba-pics{display:grid;grid-template-columns:1fr 1fr;gap:3px;background:var(--yx-line)}
+#yx-lst .yx-ba-pics figure{position:relative;margin:0;aspect-ratio:2/3;overflow:hidden;background:#e9eeeb}
+#yx-lst .yx-ba-pics img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+#yx-lst .yx-ba-pics figcaption{position:absolute;left:8px;bottom:8px;background:rgba(29,36,33,.82);color:#fff;font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:4px 9px;border-radius:999px}
+#yx-lst .yx-ba-pics figcaption.yx-after{background:var(--yx-green)}
+#yx-lst .yx-ba-body{padding:16px 16px 18px;text-align:center}
+#yx-lst .yx-ba-lbs{font-family:Georgia,"Times New Roman",serif;font-size:30px;font-weight:700;color:var(--yx-green);line-height:1.1}
+#yx-lst .yx-ba-name{font-size:14px;color:var(--yx-muted);margin-top:6px}
 #yx-lst a.yx-imglink{display:block;text-decoration:none;border-radius:14px;overflow:hidden;transition:transform .15s ease,box-shadow .15s ease}
 #yx-lst a.yx-imglink:hover{transform:translateY(-2px);box-shadow:0 10px 24px rgba(0,0,0,.10)}
 #yx-lst a.yx-imglink:focus-visible{outline:3px solid #9fd3b6;outline-offset:3px}
@@ -123,6 +133,7 @@
 #yx-lst .yx-offer a.yx-imglink{max-width:560px;margin:0 auto;border:1px solid var(--yx-line)}
 #yx-lst .yx-fine{margin-top:0;padding-top:14px;text-align:center;font-size:13px;line-height:1.6;color:var(--yx-muted)}
 @media (max-width:600px){
+  #yx-lst .yx-bas{grid-template-columns:1fr}
   #yx-lst{font-size:17px}
   #yx-lst .yx-deck{font-size:18px}
   #yx-lst a.yx-btn{display:block;padding:17px 18px}
@@ -308,6 +319,30 @@
     <div class="yx-rev"><div class="yx-rev-top"><span class="yx-av">D</span><div><div class="yx-rev-name">Debi</div><div class="yx-stars">★★★★★</div></div></div>
      <p>"I have been using my medication for 2 months and I have lost 25 pounds so far. I am well on my way to reaching my goal for summer. Thank you so much YOURx Health!!"</p>
      <span class="yx-result">Lost 25 pounds in 2 months</span></div>
+   </div>
+   <p class="yx-vary">Individual results vary. Results depend on your health, dose, diet and activity, and how long you stay on treatment.</p>
+  </div>
+
+  <!-- REAL RESULTS (before/after photos from YOURx, unedited) -->
+  <div class="yx-proof">
+   <span class="yx-eyebrow">Real Results</span>
+   <h2 class="yx-h2">Two YOURx patients, before and after</h2>
+   <p class="yx-sub">Photos shared by YOURx patients, unedited. Their results, not a promise of yours.</p>
+   <div class="yx-bas">
+    <div class="yx-ba">
+     <div class="yx-ba-pics">
+      <figure><img src="https://defconskylude.github.io/yourx-pages/img/mindie-before.jpg" alt="Mindie V. before" loading="lazy" width="300" height="462"><figcaption>Before</figcaption></figure>
+      <figure><img src="https://defconskylude.github.io/yourx-pages/img/mindie-after.jpg" alt="Mindie V. after" loading="lazy" width="300" height="462"><figcaption class="yx-after">After</figcaption></figure>
+     </div>
+     <div class="yx-ba-body"><div class="yx-ba-lbs">52 lbs lost</div><div class="yx-ba-name">Mindie V. · YOURx Health patient</div></div>
+    </div>
+    <div class="yx-ba">
+     <div class="yx-ba-pics">
+      <figure><img src="https://defconskylude.github.io/yourx-pages/img/eddie-before.jpg" alt="Eddie B. before" loading="lazy" width="300" height="462"><figcaption>Before</figcaption></figure>
+      <figure><img src="https://defconskylude.github.io/yourx-pages/img/eddie-after.jpg" alt="Eddie B. after" loading="lazy" width="300" height="462"><figcaption class="yx-after">After</figcaption></figure>
+     </div>
+     <div class="yx-ba-body"><div class="yx-ba-lbs">44 lbs lost</div><div class="yx-ba-name">Eddie B. · YOURx Health patient</div></div>
+    </div>
    </div>
    <p class="yx-vary">Individual results vary. Results depend on your health, dose, diet and activity, and how long you stay on treatment.</p>
   </div>
